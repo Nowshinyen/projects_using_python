@@ -1,1 +1,1 @@
-# Easy_projects_using_python
+# projects_using_python
